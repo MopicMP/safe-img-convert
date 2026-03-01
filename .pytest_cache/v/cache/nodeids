@@ -1,0 +1,5 @@
+[
+  "tests/test_safe_img_convert.py::TestConvert::test_basic",
+  "tests/test_safe_img_convert.py::TestConvert::test_empty",
+  "tests/test_safe_img_convert.py::TestConvert::test_type_error"
+]
